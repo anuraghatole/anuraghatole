@@ -1,15 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Hatole</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from Nagpur, India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraghatole&label=Profile%20views&color=0e75b6&style=flat" alt="anuraghatole" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anurag_hatole" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_hatole?logo=twitter&style=for-the-badge" alt="anurag_hatole" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Frontend Development, Backend Development**
+-🔭 I’m currently working on **improving my skills to enhance my productivity.**
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Website Development, Cloud Computing, DevOps, Docker, Kubernetes, CICD & AWS**
 
 - 📫 How to reach me **anuraghatole123@gmail.com**
 
