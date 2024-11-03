@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anurag_hatole" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_hatole?logo=twitter&style=for-the-badge" alt="anurag_hatole" /></a> </p>
 
--🔭 I’m currently working on **improving my skills to enhance my productivity.**
+- 🔭 I’m currently working on **improving my skills.**
 
 - 🌱 I’m currently learning **DevOps**
 
