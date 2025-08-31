@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **improving my skills.**
 
-- 🌱 I’m currently learning **DevOps**
-
 - 💬 Ask me about **Website Development, Cloud Computing, DevOps, Docker, Kubernetes, CICD & AWS**
 
 - 📫 How to reach me **anuraghatole123@gmail.com**
